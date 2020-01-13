@@ -1,0 +1,4 @@
+{
+    "flow.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow",
+    "flowide.pathToFlow": "${workspaceRoot}/node_modules/.bin/flow"
+}
